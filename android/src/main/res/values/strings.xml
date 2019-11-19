@@ -1,4 +1,0 @@
-<resources>
-    <string name="app_name">LineLoginManager</string>
-    <string name="line_channel_id" translatable="false">Your channel id here</string>
-</resources>
